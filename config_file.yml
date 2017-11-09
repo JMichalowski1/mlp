@@ -1,0 +1,8 @@
+model_config:
+    learn_rate: 0.01
+    activation_function: "sigmoid"
+    number_of_epochs: 10
+    bias: 0.1
+    number_of_data_samples: 1000
+    use_sgd: True
+    number_of_hidden_units: 512
